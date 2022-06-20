@@ -6,7 +6,7 @@
 [My Twitter](https://twitter.com/sayyyyyy46)<br>
 [My Blog](https://qiita.com/sayyyyyy)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sayyyyyy)　![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyyyy&layout=compact)
+　![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyyyy&layout=compact)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayyyyyy)](https://github.com/ryo-ma/github-profile-trophy)
