@@ -1,7 +1,6 @@
 ## Hi there 👋
-- I'm sayyyyyy from the Faculty of Urban Scrience, Meijo univ.
+- I'm sayyyyyy, a web engineer
 - I started programming in March 2021
-- Mainly doing web development
 
 <p align="left">
   <a href="https://github.com/sayyyyyy/sayyyyyy/">
@@ -20,10 +19,11 @@
   </a>
 </p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayyyyyy&theme=dracula" />
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayyyyyy&theme=dracula
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayyyyyy&count_private=true&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyyyy&layout=compact&theme=dracula">
+</p>
 
-https://github-readme-stats.vercel.app/api?username=sayyyyyy&count_private=true&show_icons=true&theme=dracula
-https://github-readme-stats.vercel.app/api/top-langs/?username=sayyyyyy&layout=compact&theme=dracula
-
-https://github-profile-trophy.vercel.app/?username=sayyyyyy&theme=dracula
+<img src="https://github-profile-trophy.vercel.app/?username=sayyyyyy&theme=dracula">
